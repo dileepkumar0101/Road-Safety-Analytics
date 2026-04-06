@@ -65,9 +65,9 @@ The dataset includes detailed information on road accidents, such as:
 
 ## 🖼️ Dashboard Preview
 
-If the image is in the root folder:
+
 ```md
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard Photo.png)
 ```
 
 
